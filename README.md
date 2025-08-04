@@ -22,7 +22,7 @@
 ### Step 4: Wrote SQL Script
 - Created tables using `CREATE TABLE` statements.
 - Added `PRIMARY KEY` and `FOREIGN KEY` constraints for integrity.
-- Used `AUTO_INCREMENT` for generating unique IDs.
+- Used `AUTOINCREMENT` for generating unique IDs.
 - Created a junction table `Book_Author` for the many-to-many relationship.
 
 ---
